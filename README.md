@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is David, I grew up in Connecticut, and I am studying Statistics at BYU. 
+
 <!--
 **blacksaab/blacksaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
